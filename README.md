@@ -45,3 +45,7 @@
 [youtube]: https://www.youtube.com/channel/UCB-ph8-L3Mer720s8OjtnVw
 [instagram]: https://www.instagram.com/pawar_ritik438/
 [linkedin]: https://www.linkedin.com/in/ritik-gagde-b269071b6/
+
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&hide=contribs,prs&show_icons=true)
+
