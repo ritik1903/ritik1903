@@ -50,6 +50,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903)](https://github.com/ritik1903/github-readme-stats)
+
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&hide=contribs,prs&show_icons=true)
 
