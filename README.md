@@ -35,7 +35,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=HcYcMqiS&id=9CC9E027E5AF6E40BABF55C16C5BF3AF95AACD45&thid=OIP.HcYcMqiSJvUjRAx6z25UmQHaHa&mediaurl=https%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fPython-PNG-Image.png&exph=800&expw=800&q=python+lanagigae++image+26px&simid=608030385741132894&FORM=IRPRST&ck=AB864EE29953634633FF780F7F52DEB3&selectedIndex=0&ajaxhist=0&ajaxserp=0" />
+<img align="left" alt="Python" width="26px" src="https://i1.wp.com/qavalidation.com/wp-content/uploads/2018/02/python-logo.png" />
 
 <br />
 <br />
