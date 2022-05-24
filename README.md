@@ -46,12 +46,7 @@
 [instagram]: https://www.instagram.com/pawar_ritik438/
 [linkedin]: https://www.linkedin.com/in/ritik-gagde-b269071b6/
 
-<br />
-<br />
-<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903)](https://github.com/ritik1903/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903)](https://github.com/ritik1903/github-readme-stats)   ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&hide=contribs,prs&show_icons=true)
 
