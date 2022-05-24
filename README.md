@@ -40,13 +40,13 @@
 <br />
 <br />
 
+
 [website]: https://ritik1903.github.io/Portfolio.github.io/
 [twitter]: https://twitter.com/GagdeRitik
 [youtube]: https://www.youtube.com/channel/UCB-ph8-L3Mer720s8OjtnVw
 [instagram]: https://www.instagram.com/pawar_ritik438/
 [linkedin]: https://www.linkedin.com/in/ritik-gagde-b269071b6/
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903)](https://github.com/ritik1903/github-readme-stats)   ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903)](https://github.com/ritik1903/github-readme-stats)
 
 
