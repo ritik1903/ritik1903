@@ -1,4 +1,4 @@
-### Hey there, I'm Ritik - aka [https://ritik1903.github.io/Portfolio.github.io/][website] 👋
+### Hey there, I'm Ritik - aka [https://ritik1903.github.io/MyPortfolio/][website] 👋
 
 ## I'm a student , developer , programmer and a player.
 - 🔭 I’m currently working on a [VS Code Course][website]!
