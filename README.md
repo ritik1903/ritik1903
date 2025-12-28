@@ -61,11 +61,15 @@ My current work focuses on **AI-driven Test Orchestration platforms**, where I d
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ritik1903?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ritik1903?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-SDE%20%7C%20SaaS-blueviolet?style=for-the-badge" />
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritik1903&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1903&layout=compact&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritik1903&style=for-the-badge" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik1903&theme=radical&hide_border=true" />
@@ -96,6 +100,3 @@ My current work focuses on **AI-driven Test Orchestration platforms**, where I d
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritik1903&color=34D399&style=flat-square" />
-</p>
