@@ -12,10 +12,10 @@ I am a **Software Development Engineer** working in a **product-based SaaS organ
 My current work focuses on **AI-driven Test Orchestration platforms**, where I design and scale systems that handle high concurrency, reliability, and performance at scale.
 
 - **Backend-first engineer** with strong fundamentals in data structures, concurrency, and system design  
-- Hands-on experience building **microservices**, **REST/gRPC APIs**, and **event-driven systems**
+- Hands-on experience building **Microservices**, **REST/gRPC APIs**, **Data-driven ML models** and **Event-driven systems**
 - Comfortable owning features end-to-end: design → implementation → deployment → monitoring
 
-📍 Bangalore, India  
+📍 India  
 💼 Domain: SaaS, DevTools, AI Test Infrastructure
 
 ---
