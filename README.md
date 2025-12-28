@@ -88,10 +88,10 @@ My current work focuses on **AI-driven Test Orchestration platforms**, where I d
   <a href="https://ritik1903.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ritik1903">
+  <a href="https://www.linkedin.com/in/ritik-gagde21/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hello@ritik.com">
+  <a href="mailto:ritikgadge2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
